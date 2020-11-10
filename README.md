@@ -8,7 +8,7 @@
 <h1 align="center">SQL Zoo Solutions</h1>
 
 <p align="center">
-  <strong>Project created by Jenny Cárdenas</strong>
+  <strong>Made by Jenny Cárdenas</strong>
   <br>
    This is a compilation of the SQL ZOO solutions.
 </p>
@@ -24,15 +24,18 @@
 </p>
 
 
+
 ## 👩🏼‍💻 About SQL ZOO 
 
 As part of the requirements to complete the database section of the Microverse technical curriculum, every student has to complete the SQL Zoo tutorials and come up with solutions and complete the quizzes.
 <hr>
 
 
+
 ## 🔧 Built With
 
 - SQL 
+
 
 
 ## 👥 Author
@@ -44,6 +47,7 @@ As part of the requirements to complete the database section of the Microverse t
 - LinkedIn: [Jenny Càrdenas](https://www.linkedin.com/in/paolajenny)
 
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -51,14 +55,17 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/janis-jenny/SQL-ZOO-Solutions/issues).
 
 
+
 ## ⭐ Show your support
 
 Give a ⭐️ if you like this project!
 
 
+
 ## 📌 Acknowledgments
 
 - [SQL ZOO](https://sqlzoo.net/wiki/)
+
 
 
 ## 📝 License
